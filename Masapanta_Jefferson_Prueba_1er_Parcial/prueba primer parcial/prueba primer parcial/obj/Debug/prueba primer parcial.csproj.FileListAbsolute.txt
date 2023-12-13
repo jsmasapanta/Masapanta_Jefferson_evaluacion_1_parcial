@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\ESPE\5TO SEMESTRE\Programacion Web avanzada\visual studio\prueba primer parcial\prueba primer parcial\bin\Debug\prueba primer parcial.exe.config
+C:\Users\ASUS\Documents\ESPE\5TO SEMESTRE\Programacion Web avanzada\visual studio\prueba primer parcial\prueba primer parcial\bin\Debug\prueba primer parcial.exe
+C:\Users\ASUS\Documents\ESPE\5TO SEMESTRE\Programacion Web avanzada\visual studio\prueba primer parcial\prueba primer parcial\bin\Debug\prueba primer parcial.pdb
+C:\Users\ASUS\Documents\ESPE\5TO SEMESTRE\Programacion Web avanzada\visual studio\prueba primer parcial\prueba primer parcial\obj\Debug\prueba primer parcial.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\ESPE\5TO SEMESTRE\Programacion Web avanzada\visual studio\prueba primer parcial\prueba primer parcial\obj\Debug\prueba primer parcial.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\ESPE\5TO SEMESTRE\Programacion Web avanzada\visual studio\prueba primer parcial\prueba primer parcial\obj\Debug\prueba primer parcial.exe
+C:\Users\ASUS\Documents\ESPE\5TO SEMESTRE\Programacion Web avanzada\visual studio\prueba primer parcial\prueba primer parcial\obj\Debug\prueba primer parcial.pdb
